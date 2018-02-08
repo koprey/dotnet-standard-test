@@ -1,0 +1,9 @@
+d:\users\vyim\documents\visual studio 2017\Projects\ConsoleApp2\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+d:\users\vyim\documents\visual studio 2017\Projects\ConsoleApp2\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+d:\users\vyim\documents\visual studio 2017\Projects\ConsoleApp2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojResolveAssemblyReference.cache
+d:\users\vyim\documents\visual studio 2017\Projects\ConsoleApp2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+d:\users\vyim\documents\visual studio 2017\Projects\ConsoleApp2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+d:\users\vyim\documents\visual studio 2017\Projects\ConsoleApp2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+d:\users\vyim\documents\visual studio 2017\Projects\ConsoleApp2\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+d:\users\vyim\documents\visual studio 2017\Projects\ConsoleApp2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+d:\users\vyim\documents\visual studio 2017\Projects\ConsoleApp2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
